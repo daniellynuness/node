@@ -21,7 +21,7 @@ Contribuições são bem-vindas! Se você deseja adicionar um novo exemplo ou me
 2. Crie uma nova branch com a sua contribuição: `git checkout -b minha-contribuicao`.
 3. Commit suas mudanças: `git commit -m 'Adicionei um novo exemplo'`.
 4. Envie para o repositório remoto: `git push origin minha-contribuicao`.
-5. Abra um Pull Request explicando suas mudanças.
+5. Abra um Pull Request explicando suas mudanças!
 
 ## Requisitos
 
